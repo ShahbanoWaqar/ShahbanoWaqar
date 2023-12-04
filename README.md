@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahbano Waqar</h1>
 <h3 align="center">A passionate AI/ML enthusiast from Pakistan</h3>
-<img align="right" width="400" src="https://i.redd.it/wejglrijyhn91.gif”>
+<img align="right" width="400" src="https://media3.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbanowaqar&label=Profile%20views&color=0e75b6&style=flat" alt="shahbanowaqar" /> </p>
 
