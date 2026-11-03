@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbanowaqar&label=Profile%20views&color=0e75b6&style=flat" alt="shahbanowaqar" /> </p>
 
-- 🔭 I’m currently working on **Responsive Portfolio Website**
+- 🔭 I’m currently working on **Budget-Limited-Reads**
 
-- 🌱 I’m currently learning **MERN, Generative AI, DL**
+- 🌱 I’m currently learning **Generative AI, PyTorch**
 
 - 📫 How to reach me **shahbanowaqar589@gmail.com**
 
